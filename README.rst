@@ -7,7 +7,7 @@ less trivial than initially expected.
 
 **Inspiration and helpful resources:**
 
-+ <http://objectlistview.sourceforge.net/cs/overlays.html>
-+ <http://stackoverflow.com/questions/7854146/c-sharp-best-way-to-simulate-a-device-with-screen-and-dim-it>
-+ <https://github.com/hamxiaoz/Misc/tree/master/DimScreen>
-+ <http://stackoverflow.com/questions/4503210/draw-semi-transparent-overlay-image-all-over-the-windows-form-having-some-contro>
++ http://objectlistview.sourceforge.net/cs/overlays.html
++ http://stackoverflow.com/questions/7854146/c-sharp-best-way-to-simulate-a-device-with-screen-and-dim-it
++ https://github.com/hamxiaoz/Misc/tree/master/DimScreen
++ http://stackoverflow.com/questions/4503210/draw-semi-transparent-overlay-image-all-over-the-windows-form-having-some-contro
